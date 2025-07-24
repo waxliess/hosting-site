@@ -99,7 +99,7 @@ yarn build
 
 ## 👥 Tarafından Geliştirildi
 
-- [Erslly](https://erslly.xyz)
+- [Erslly](https://erslly.dev)
 
 ## 🙏 Teşekkürler
 

@@ -340,7 +340,7 @@ export default function AboutUs() {
                   </Link>
                 </Button>
                 <Button asChild variant="outline" className="border-[#ff9800] text-white hover:bg-[#ff9800] hover:text-black rounded-full">
-                  <Link href="https://discord.gg/sikiss" target="_blank" rel="noopener noreferrer">
+                  <Link href="https://discord.gg/asdasasd" target="_blank" rel="noopener noreferrer">
                     Bize Ulaşın
                   </Link>
                 </Button>

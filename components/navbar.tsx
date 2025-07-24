@@ -45,7 +45,7 @@ export default function Navbar() {
               transition={{ type: "spring", stiffness: 400 }}
             >
               <Mail className="h-3 w-3 text-[#ff9800]" />
-              <span className="text-white text-xs">dev@erslly.xyz</span>
+              <span className="text-white text-xs">contact@erslly.dev</span>
             </motion.div>
           </div>
         </div>
