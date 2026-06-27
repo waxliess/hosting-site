@@ -21,11 +21,11 @@ export default function Footer() {
             <div className="mb-6 space-y-2">
               <div className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-[#ff9800]" />
-                <span className="text-slate-300">+90 888 888 888</span>
+                <span className="text-slate-300">+994 888 88 88</span>
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-[#ff9800]" />
-                <span className="text-slate-300">contact@erslly.dev</span>
+                <span className="text-slate-300">contact@feqan.com.tr</span>
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="h-5 w-5 text-[#ff9800]" />
@@ -120,7 +120,7 @@ export default function Footer() {
             <div className="mb-4 md:mb-0">
               <p className="text-slate-400">© 2025 host. Tüm hakları saklıdır.</p>
               <p className="text-slate-400 text-sm mt-1">
-                Site <Link href="https://erslly.dev/" className="text-[#ff9800] hover:underline">@erslly</Link> tarafından geliştirildi ve tasarlandı.
+                Site <Link href="https://feqan.com.tr/" className="text-[#ff9800] hover:underline">@feqan</Link> tarafından geliştirildi ve tasarlandı.
               </p>
             </div>
             
