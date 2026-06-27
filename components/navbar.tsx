@@ -37,7 +37,7 @@ export default function Navbar() {
               transition={{ type: "spring", stiffness: 400 }}
             >
               <Phone className="h-3 w-3 text-[#ff9800]" />
-              <span className="text-white text-xs">+90 888 888 888</span>
+              <span className="text-white text-xs">+994 888 88 88</span>
             </motion.div>
             <motion.div 
               className="flex items-center gap-2"
@@ -45,7 +45,7 @@ export default function Navbar() {
               transition={{ type: "spring", stiffness: 400 }}
             >
               <Mail className="h-3 w-3 text-[#ff9800]" />
-              <span className="text-white text-xs">contact@erslly.dev</span>
+              <span className="text-white text-xs">contact@feqan.com.tr</span>
             </motion.div>
           </div>
         </div>
