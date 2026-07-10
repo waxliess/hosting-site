@@ -191,7 +191,7 @@ export default function PrivacyPolicy() {
                   </div>
                   
                   <p className="text-slate-400 text-sm">
-                    Bu gizlilik politikası ile ilgili sorularınız varsa, lütfen <a href="mailto:dev@erslly.dev" className="text-[#ff9800] hover:underline">contact@erslly.dev</a> adresinden bizimle iletişime geçin.
+                    Bu gizlilik politikası ile ilgili sorularınız varsa, lütfen <a href="mailto:dev@erslly.dev" className="text-[#ff9800] hover:underline">contact@feqan.dev</a> adresinden bizimle iletişime geçin.
                   </p>
                 </div>
               </CardContent>
